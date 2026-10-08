@@ -1,2 +1,2 @@
-#Applied Data Science Caption Project from coursera"
+Applied Data Science Caption Project from coursera
 
